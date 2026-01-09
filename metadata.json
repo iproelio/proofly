@@ -1,0 +1,9 @@
+{
+  "name": "Proofly",
+  "description": "A hard-proof service verification platform for non-editable, geo-verified job records with mandatory narration and offline support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
